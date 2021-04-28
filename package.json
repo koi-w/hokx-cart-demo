@@ -6,7 +6,7 @@
   "dependencies": {
     "antd": "^4.15.0",
     "axios": "^0.21.1",
-    "hokx": "0.0.0-test-210424-02",
+    "hokx": "^1.0.3",
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "react-router-dom": "^5.2.0",

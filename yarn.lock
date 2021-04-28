@@ -5502,10 +5502,10 @@ hoist-non-react-statics@^3.1.0, hoist-non-react-statics@^3.3.2:
   dependencies:
     react-is "^16.7.0"
 
-hokx@0.0.0-test-210424-02:
-  version "0.0.0-test-210424-02"
-  resolved "https://registry.yarnpkg.com/hokx/-/hokx-0.0.0-test-210424-02.tgz#551accffb25bf06f62b6dec3c0b60f914da85d4b"
-  integrity sha512-RxARKGNgQkqIiB3yoTKXZ4zykbW+wlo8KIldj2GmEnWHr5FvBVkneyftEVG2X+lxCnMAcTycn0bI+yygsCyHPA==
+hokx@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/hokx/-/hokx-1.0.3.tgz#c31f68f25d064b39874acdc21654cb8e23592a63"
+  integrity sha512-iZ1ufteQlwjCgSxOqmOP2m3/KWweF3g0pV7t42F9lX3w1P8byaadOvFCFchJgcH9abJVyU/+ArnF39kRuEtZcA==
 
 hoopy@^0.1.4:
   version "0.1.4"
