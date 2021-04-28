@@ -1,13 +1,14 @@
 A shopping cart case using hokx.  
 
-```shell
+```sh
 git clone https://github.com/koi-w/hokx-cart-demo.git
-
+```
+```sh
 cd hokx-cart-demo
-
-yarn
-or
-npm install
-
+```
+```sh
+yarn or npm install
+```
+```sh
 yarn start
 ```
