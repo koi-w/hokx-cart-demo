@@ -1,0 +1,17 @@
+[
+    {
+        "key": 1,
+        "name": "Iphone 12",
+        "price": 6799
+    },
+    {
+        "key": 2,
+        "name": "dell 显示器",
+        "price": 1599
+    },
+    {
+        "key": 3,
+        "name": "扫地机器人",
+        "price": 2000
+    }
+]
